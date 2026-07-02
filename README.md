@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/26L)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%EC%9A%B0-%EA%B9%80-a16a60278)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leval5716@gmail.com)
-[![Notion]](https://concise-beryllium-2e9.notion.site/50073bf510408264969a81634ca986f5)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://concise-beryllium-2e9.notion.site/50073bf510408264969a81634ca986f5)
 
 </div>
 
