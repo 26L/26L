@@ -93,24 +93,15 @@
 ## ROKEY BOOT CAMP PROJECT (ROKEY 7기)
 
 ### 조심감 — AI 비전 기반 조기 심정지 감지 자율주행 순찰 로봇
-- AMR / Vision / WEB 3개 파트의 협업을 조율하고 개발 순서·인터페이스를 설계
 - `ROS2` `YOLOv8(pose)` `Navigation2` `AMR` `Web Dashboard`
 
-
 ### 도시락 — ROS2 기반 협동로봇 도시락 자동 조립
-- 하드코딩된 통합 코드를 **계층형 · 관심사 분리(SoC) 구조로 리팩터링** (SW 엔지니어링 깊이)
 - `ROS2` `Doosan M0609(DSR_ROBOT2)` `OpenCV`
 
-
 ### 감각테일 — AI Vision 협동로봇 작업 어시스턴트
-- 감정 분석(**DeepFace**) + 운영 대시보드(**Streamlit**) 구현, **Docker** 기반 의존성 관리
-- **LLM · RAG(Qdrant 벡터 DB) 기반 메뉴 추천**이 포함된 감정 인식 대화형 시스템을 PM으로 통합
 - `ROS2` `DeepFace` `Streamlit` `Docker` `LLM` `RAG` `Qdrant`
 
-
 ### 꼬마 로봇 누리 — 디지털 트윈 축사 자율순찰 로봇 시뮬레이션
-- **Isaac Sim** 디지털 트윈 축사 환경 구축 및 자율순찰 시나리오 시뮬레이션
-- Navigation + **주행 강화학습(RL)** 정책 학습, 합성 데이터 기반 YOLO 학습
 - `Isaac Sim` `ROS2(DDS)` `Navigation2` `RL` `YOLO`
 
 
@@ -119,15 +110,10 @@
 ## 개인 · 확장 프로젝트
 
 ### Calcifer — 로컬 LLM 기반 RAG 시스템
-- 가상 기업("하울") 합성 데이터셋의 **핵심 문서 30종을 임베딩 · 검색**하도록 구축 (Phase 1 완료)
-- **GraphRAG · LightRAG** 비교 실험으로 검색 품질을 개선 중 (Phase 2)
 - `Local LLM` `RAG` `GraphRAG` `LightRAG` `Vector DB`
 
-
 ### 감각테일 하이브리드 검색 — 레시피 검색 엔진
-- 레시피 27종을 Vector DB에 적재하고 **의미(semantic) · 키워드 · 연령 필터**를 결합한 하이브리드 검색을 구현
 - `RAG` `Vector DB` `Hybrid Search` `Embedding`
-
 
 ---
 
