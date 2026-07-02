@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leval5716@gmail.com)
 [![Notion]](https://concise-beryllium-2e9.notion.site/50073bf510408264969a81634ca986f5)
 
-
+</div>
 
 ---
 
@@ -21,6 +21,7 @@
 - 두산로보틱스 **ROKEY 7기** 지능형 로보틱스 엔지니어 양성과정 수료 (2025.12 ~ 2026.06).
 
 ---
+<div align="center">
 
 ## 🛠 Tech Stack
 
