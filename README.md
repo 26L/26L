@@ -109,7 +109,7 @@
 
 ## 개인 · 확장 프로젝트
 
-### Calcifer — 로컬 LLM 기반 RAG 시스템
+### 로컬 LLM 기반 RAG 시스템
 - `Local LLM` `RAG` `GraphRAG` `LightRAG` `Vector DB`
 
 ### 감각테일 하이브리드 검색 — 레시피 검색 엔진
