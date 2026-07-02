@@ -137,17 +137,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26L&show_icons=true&hide_border=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26L&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 ## Contact
 
 - **Email** — leval5716@gmail.com
