@@ -107,7 +107,7 @@
 - `ROS2` `DeepFace` `Streamlit` `Docker` `LLM` `RAG` `Qdrant`
 
 
-### 🐄 꼬마 로봇 누리 — 디지털 트윈 축사 자율순찰 로봇 시뮬레이션
+### 꼬마 로봇 누리 — 디지털 트윈 축사 자율순찰 로봇 시뮬레이션
 - **Isaac Sim** 디지털 트윈 축사 환경 구축 및 자율순찰 시나리오 시뮬레이션
 - Navigation + **주행 강화학습(RL)** 정책 학습, 합성 데이터 기반 YOLO 학습
 - `Isaac Sim` `ROS2(DDS)` `Navigation2` `RL` `YOLO`
