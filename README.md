@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leval5716@gmail.com)
 [![Notion]](https://concise-beryllium-2e9.notion.site/50073bf510408264969a81634ca986f5)
 
-</div>
+
 
 ---
 
@@ -87,7 +87,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 ---
-
+</div>
 ## ROKEY BOOT CAMP PROJECT (ROKEY 7기)
 
 ### 조심감 — AI 비전 기반 조기 심정지 감지 자율주행 순찰 로봇
