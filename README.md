@@ -36,15 +36,12 @@
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-333333?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **LLM / RAG**
 
 ![RAG](https://img.shields.io/badge/RAG-0A7E8C?style=flat)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-2E4374?style=flat)
-![LightRAG](https://img.shields.io/badge/LightRAG-4A628A?style=flat)
 ![Local LLM](https://img.shields.io/badge/Local%20LLM-263238?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![Embedding](https://img.shields.io/badge/Embedding-5C2D91?style=flat)
@@ -52,7 +49,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Frontend / Web**
@@ -66,7 +62,6 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
