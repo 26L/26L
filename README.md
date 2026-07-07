@@ -2,7 +2,7 @@
 
 # 안녕하세요, 김승우입니다 👋
 
-**백엔드·음성 AI에서 로보틱스로 확장한 SW 엔지니어**
+**백엔드·음성 AI에서 로보틱스로 확장한 SW 백엔드 엔지니어링**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/26L)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%EC%9A%B0-%EA%B9%80-a16a60278)
