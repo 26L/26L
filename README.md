@@ -70,7 +70,6 @@
 
 ![STT](https://img.shields.io/badge/STT-4B0082?style=flat)
 ![TTS](https://img.shields.io/badge/TTS-4B0082?style=flat)
-![ESPnet](https://img.shields.io/badge/ESPnet-333333?style=flat)
 
 **Environment / Collaboration**
 
