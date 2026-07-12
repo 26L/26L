@@ -122,4 +122,4 @@
 - **Email** — leval5716@gmail.com
 - **LinkedIn** — [김승우](https://www.linkedin.com/in/%EC%8A%B9%EC%9A%B0-%EA%B9%80-a16a60278)
 - **GitHub** — [github.com/26L](https://github.com/26L)
-- **Portfolio (Notion)** — [Notion](https://concise-beryllium-2e9.notion.site/50073bf510408264969a81634ca986f5)
+- **Portfolio (Notion)** — [Notion](https://kim26l.notion.site/)
