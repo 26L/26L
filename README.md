@@ -86,15 +86,19 @@
 
 ### 조심감 — AI 비전 기반 조기 심정지 감지 자율주행 순찰 로봇
 - `ROS2` `YOLOv8(pose)` `Navigation2` `AMR` `Web Dashboard`
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ### 도시락 — ROS2 기반 협동로봇 도시락 자동 조립
 - `ROS2` `Doosan M0609(DSR_ROBOT2)` `OpenCV`
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ### 감각테일 — AI Vision 협동로봇 작업 어시스턴트
 - `ROS2` `DeepFace` `Streamlit` `Docker` `LLM` `RAG` `Qdrant`
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ### 꼬마 로봇 누리 — 디지털 트윈 축사 자율순찰 로봇 시뮬레이션
 - `Isaac Sim` `ROS2(DDS)` `Navigation2` `RL` `YOLO`
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
 ---
