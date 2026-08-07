@@ -100,7 +100,7 @@
 | **조심감** | AI 비전 기반 조기 심정지 감지 자율주행 순찰 로봇 | `ROS2` `YOLOv8(pose)` `Navigation2` `AMR` `Web Dashboard` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/C1_D3_rokey_emergency_patient) |
 | **도시락** | ROS2 기반 협동로봇 도시락 자동 조립 | `ROS2` `Doosan M0609(DSR_ROBOT2)` `OpenCV` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/C1_rokey_lunchbox-cobot) |
 | **감각테일** | AI Vision 협동로봇 작업 어시스턴트 | `ROS2` `DeepFace` `Streamlit` `Docker` `LLM` `RAG` `Qdrant` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/D3_rokey_emotion_cocktail) |
-| **꼬마 로봇 누리** ⭐ | 디지털 트윈 축사 자율순찰 로봇 시뮬레이션 | `Isaac Sim` `ROS2(DDS)` `Navigation2` `RL` `YOLO` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/D3_isaac_smart_bran) |
+| **꼬마 로봇 누리** | 디지털 트윈 축사 자율순찰 로봇 시뮬레이션 | `Isaac Sim` `ROS2(DDS)` `Navigation2` `RL` `YOLO` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/D3_isaac_smart_bran) |
 
 ---
 
@@ -110,7 +110,6 @@
 |---|---|---|---|
 | **4족 보행 RL 심화** | Isaac Lab 커리큘럼(평지→험지) 기반 Spot Wholebody 보행 정책 심화 | `Isaac Lab` `rsl_rl PPO` `Curriculum` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/brev_nvidia) |
 | **로컬 LLM 기반 RAG 시스템** | RAG 벤치마크 — 동일 조건 검색 기법 비교 (judge 0.33→0.81) | `Local LLM` `RAG` `GraphRAG` `LightRAG` `Vector DB` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/RAG_project) |
-| **감각테일 하이브리드 검색** | 레시피 검색 엔진 | `RAG` `Vector DB` `Hybrid Search` `Embedding` | |
 
 ---
 
