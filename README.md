@@ -108,7 +108,6 @@
 
 | 프로젝트 | 소개 | 스택 | 레포 |
 |---|---|---|---|
-| **4족 보행 RL 심화** | Isaac Lab 커리큘럼(평지→험지) 기반 Spot Wholebody 보행 정책 심화 | `Isaac Lab` `rsl_rl PPO` `Curriculum` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/brev_nvidia) |
 | **로컬 LLM 기반 RAG 시스템** | RAG 벤치마크 — 동일 조건 검색 기법 비교 (judge 0.33→0.81) | `Local LLM` `RAG` `GraphRAG` `LightRAG` `Vector DB` | [![repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/26L/RAG_project) |
 
 ---
